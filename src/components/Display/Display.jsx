@@ -28,10 +28,9 @@ export default function Display({results}) {
 
   return (
     <MaxWidthWrapper>
-    <div>
         <div className="search_options">
           <div>
-          <form className="search_container">
+            <form className="search_container">
                 {searchCountry ? (
                     <Link to={`/country-search/search/${searchCountry}`}>
                         <button className="search_submit"><ion-icon name="search-outline"></ion-icon></button>
@@ -85,7 +84,6 @@ export default function Display({results}) {
               <h2 className="search_found">Search result not found!</h2>
             )}
             </div>
-    </div>
     </MaxWidthWrapper>
   )
 }
