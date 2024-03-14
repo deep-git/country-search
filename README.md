@@ -5,6 +5,7 @@ The application also contains a theme switcher that allows users to toggle betwe
 
 **Preview of the country search page:**<br><br>
 
+![Country search preview page](public/country_preview.png)
 
 ## View Site
 Link: https://deepgit-todo-list.netlify.app/
