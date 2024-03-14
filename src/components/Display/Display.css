@@ -37,6 +37,10 @@
     width: 200px;
 }
 
+.search_found {
+    color: var(--text);
+}
+
 @media only screen and (max-width: 1440px) {
     .search_options > div {
         width: 100%;

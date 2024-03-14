@@ -82,7 +82,7 @@ export default function Display({results}) {
             }
 
             {results && results.length < 1 && (
-              <h2>Search result not found!</h2>
+              <h2 className="search_found">Search result not found!</h2>
             )}
             </div>
     </div>
