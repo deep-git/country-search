@@ -1,8 +1,16 @@
-# React + Vite
+# Country Search API
+This project is a Frontend Mentor challenge project that utilizes HTML, CSS, and React to create a country search app using a REST country API. The application allows users to search and filter through countries based on input and regions. The country cards show some simple information, and upon clicking the country card, the app will redirect the user to the specific country page where more detailed information can be viewed. Users are able to navigate the pages through the implementation of react router. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The application also contains a theme switcher that allows users to toggle between light mode and dark mode.
 
-Currently, two official plugins are available:
+**Preview of the country search page:**<br><br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## View Site
+Link: https://deepgit-todo-list.netlify.app/
+
+## Technologies Utilized
+- HTML
+- CSS
+- React
+- Vite
